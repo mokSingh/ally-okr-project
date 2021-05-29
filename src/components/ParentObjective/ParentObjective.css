@@ -14,11 +14,6 @@
     font-size: 14px;
 }
 
-.verticalLine {
-   width: 1px;
-   height: 10px;
-  }
-
 .parentObjective > div:first-child{
     background: #13ce95;
     border: 1px solid #1779ba;
