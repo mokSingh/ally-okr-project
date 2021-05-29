@@ -1,5 +1,5 @@
 # ally-okr-project
-Makes ajax call to https://okrcentral.github.io/sample-okrs/db.json andd fetches objectives
+Makes ajax call to https://okrcentral.github.io/sample-okrs/db.json and fetches objectives
 and transforms them to proper parent / child hierarchy.
 
 
@@ -23,4 +23,5 @@ npm run webpack
 
 ```
 
-In case of any issue, please switch to node v12.16.3
+**In case of any issue**
+Please switch to node v12.16.3
