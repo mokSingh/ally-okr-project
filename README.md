@@ -23,5 +23,5 @@ npm run webpack
 
 ```
 
-**In case of any issue**
+## In case of any issue
 Please switch to node v12.16.3
