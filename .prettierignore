@@ -1,0 +1,18 @@
+# dependencies
+/node_modules
+# tests
+*.test.tsx
+*.test.ts
+*.test.js
+*.test.jsx
+# sandbox
+/src/[sandbox]/*/**
+# compiled output
+/build
+/coverage
+#misc
+
+/publish
+publish.auth.js
+jest.config.js
+.eslint.js
