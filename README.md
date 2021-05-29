@@ -2,6 +2,8 @@
 Makes ajax call to https://okrcentral.github.io/sample-okrs/db.json and fetches objectives
 and transforms them to proper parent / child hierarchy.
 
+## Application deployed on s3 
+https://allyio-okr.s3.ap-south-1.amazonaws.com/index.html
 
 ## Getting Started
 This will automatically run the application in watch mode
