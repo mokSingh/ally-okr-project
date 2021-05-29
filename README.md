@@ -7,6 +7,8 @@ https://allyio-okr.s3.ap-south-1.amazonaws.com/index.html
 
 ## Getting Started
 This will automatically run the application in watch mode
+Please run it on node v12.16.3 (npm v6.14.4) or greater
+In case of any issue choose this specific version,
 ```
 npm install
 npm start
